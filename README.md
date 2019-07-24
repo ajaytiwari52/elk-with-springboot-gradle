@@ -182,8 +182,8 @@ Now open the command prompt from `/logastash/bin` and run `logstash -f logstash.
 
 Open Kibana and add pattern logstash-*.
 
-##### Reference
-https://howtodoinjava.com/microservices/elk-stack-tutorial-example/
+##### References
+https://howtodoinjava.com/microservices/elk-stack-tutorial-example/      
 https://www.javainuse.com/spring/springboot-microservice-elk
 
 
